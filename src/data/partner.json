@@ -1,0 +1,17 @@
+[ 
+    {
+        "id":1,
+        "partnername" : "PT Sinarmas 1",
+        "product":["Siji Secure 1", "Siji Secure 2", "Siji Secure 3", "Siji Secure 4"]
+    },
+    {
+        "id":2,
+        "partnername" : "PT Sinarmas 2",
+        "product":["Siji Secure 1", "Siji Secure 2", "Siji Secure 3"]
+    },
+    {
+        "id":3,
+        "partnername" : "PT Sinarmas 3",
+        "product":["Siji Secure 1", "Siji Secure 2"]
+    }
+] 
